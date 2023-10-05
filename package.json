@@ -1,5 +1,6 @@
 {
-  "name": "root",
+  "name": "algebra",
+  "version": "v2.0.0",
   "private": true,
   "devDependencies": {
     "@defi-wonderland/smock": "^2.3.0",
